@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "753000444210",
+    "firebase_url": "https://trippo-41cbd-default-rtdb.firebaseio.com",
+    "project_id": "trippo-41cbd",
+    "storage_bucket": "trippo-41cbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753000444210:android:e2100e5df55ecc3bb2672b",
+        "android_client_info": {
+          "package_name": "com.egoncastle.drivers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753000444210-h1ip9u5sckjjh8nd27g09c5qtqit2m6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJXq22WDJT-VatkGHzOqEeGsEFOvk26c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753000444210-h1ip9u5sckjjh8nd27g09c5qtqit2m6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753000444210:android:f7b064c5211aa2bab2672b",
+        "android_client_info": {
+          "package_name": "com.egoncastle.users"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753000444210-h1ip9u5sckjjh8nd27g09c5qtqit2m6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJXq22WDJT-VatkGHzOqEeGsEFOvk26c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753000444210-h1ip9u5sckjjh8nd27g09c5qtqit2m6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
